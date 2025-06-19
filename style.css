@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    padding: 30px;
+    background-color: #f4f6f8;
+}
+label, select, button {
+    margin: 10px 0;
+    display: block;
+}
+select {
+    padding: 6px;
+    font-size: 16px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.result {
+    margin-top: 20px;
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
