@@ -28,3 +28,7 @@ button {
     border: 1px solid #ccc;
     border-radius: 6px;
 }
+#pic{
+    margin-top: 20px;
+    display: flex;
+}
