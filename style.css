@@ -23,6 +23,7 @@ button {
 }
 .result {
     margin-top: 20px;
+    margin-bottom: 20px;
     background: #fff;
     padding: 15px;
     border: 1px solid #ccc;
